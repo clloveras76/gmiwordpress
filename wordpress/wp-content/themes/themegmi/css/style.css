@@ -1,0 +1,92 @@
+/* Estilos generales */
+
+
+body{
+	/*background-color:#EEE;*/
+	background-color: #F6F4F1!important;	
+}
+
+ .titleH4{
+ color: #0069ae;
+ 
+ }
+
+/* Estilos generales */
+/*
+#menutopPrincipal nav {
+            height: 100px;
+        line-height: 100px;
+}
+
+@media only screen and (min-width: 62.000em){
+	#menutopPrincipal nav ul a {
+	 display: inline;
+	}
+}
+*/	
+#menutopPrincipal nav{
+background-color: #fcfcfc;	
+}	
+
+@media only screen and (min-width: 62.000em){
+#menutopPrincipal  nav ul a:hover {
+    background-color: #00897b;
+    color: white!important;
+}
+}
+
+#menutopPrincipal nav .black-text{
+ /*border-right: solid 1px;*/
+}
+
+#menutopPrincipal nav .lastItemMnu{
+ border-right: 0px;
+}
+
+
+	
+#menutopPrincipal #logo-container{
+/*	width:100%;*/
+}
+/*
+.brand-logo {
+	max-height:100px;
+}
+*/
+
+
+
+.material-icons{
+color: #039be5;
+margin-left:10px;
+}
+
+
+/* slider*/
+/*
+.slider{
+	margin-top:35px;
+}
+*/
+.slider h3{
+	color:#fff;
+}
+.slider .caption h2{
+	color:#fff;
+	text-shadow: 2px 2px 2px rgba(150, 150, 150, 1);
+	font-family: 'Roboto', sans-serif;font-weight: 400
+	}
+	
+.slider .indicators .indicator-item.active {
+    background-color:#039be5;
+}	
+
+.card-action a{
+	color:#00897b!important;
+}
+.card-action a:hover{
+	color:#4db6ac!important;
+}
+
+
+
