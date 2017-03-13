@@ -8,7 +8,7 @@
 <section id="main">
 	
 	<!-- comienza container principal 960 -->
-	<div class="container">
+	<div class="a90percentCont">
 	
 	<!-- comienza Article list -->
 
@@ -21,7 +21,7 @@
 				<article>
 					<div class="col s12 m8 offset-m2 l6 offset-l3">
 							<div class="card-panel grey lighten-5 z-depth-1">
-								<h4 class="titleH4Single"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h4>
+								<h4 class="titleH4Single titleH4Section"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h4>
 								<div class="date"><?php the_date();?> en <span><?php the_category(); ?></span></div>
 								<div class="row valign-wrapper">
 										<!-- div class="col s3">
@@ -43,11 +43,11 @@
 		
 		
 		<?php endwhile; else: ?>
-			<h1>No se encontraron Art&#237;culos</h1>
+			<h4>No se encontraron Art&#237;culos</h4>
 		<?php endif; ?>
 		<!-- fin bucle de articulos -->
 		<div id="comentarios">
-			<h3>Comentarios</h3>
+			<h4>Comentarios</h4>
 			<div id="caja_comentarios">
 				<?php comments_template(); ?>
 			</div>

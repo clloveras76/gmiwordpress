@@ -44,7 +44,7 @@
 						array(
 							'container' => false,
 							'items_wrap' => '<ul class="right hide-on-med-and-down" id="menu-top">%3$s</ul>
-							<ul id="nav-mobile" class="side-nav  teal darken-1">%3$s</ul>',
+							<ul id="nav-mobile" class="side-nav "><br> %3$s</ul>',
 							'theme_location' => 'menu',		
 						));?>
 			</nav>	

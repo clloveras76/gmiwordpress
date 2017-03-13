@@ -8,7 +8,7 @@
 <section id="main">
 	
 	<!-- comienza container principal 960 -->
-	<div class="container">
+	<div class="a90percentCont">
 	
 	<!-- comienza Article list -->
 
@@ -20,7 +20,7 @@
 				<article>
 					<div class="col s12 m8 offset-m2 l6 offset-l3">
 							<div class="card-panel grey lighten-5 z-depth-1">
-								<h2 class="titleH4"><?php the_title(); ?></h2>
+								<h4 class="titleH4 titleH4Section"><?php the_title(); ?></h4>
 								<div class="date"><?php the_date();?> en <span><?php the_category(); ?></span></div>
 								<div class="row valign-wrapper">
 										<!-- div class="col s3">

@@ -5,12 +5,12 @@
 
 
 	<!-- comienza container principal 960 -->
-	<div class="container">
+	<div class="a90percentCont">
 	
 	<!-- comienza Article list -->
 <div class="card-panel grey lighten-5 z-depth-1">
 	  <section id="articles_list">	
-	    <h2 id="cat_name" class="titleH4"><?php single_cat_title($prefix = '', $display = true); ?></h2>
+	    <h4 id="cat_name" class="titleH4 titleH4Section"><?php single_cat_title($prefix = '', $display = true); ?></h4>
 	
 				<article>
 		<!-- bucle de articulos -->
@@ -18,7 +18,7 @@
 		<?php if(have_posts()): while(have_posts()) : the_post();?> 
 		
 		
-					<div class="col s12 m6 l6">
+					<div class="col s12 m6 l4">
 
 							
  							<div class="card">

@@ -33,6 +33,17 @@
 										  <img class="logopresntacionHome" src="http://localhost/gmiwordpress/wordpress/wp-content/themes/themegmi/img/logogmi_Big.jpg" alt="" class="thumb responsive-img" --> <!-- notice the "circle" class -->
 										<!--/div -->
 										<div class="col s12">
+											<p>
+												GMI es un referente en implantología dental, especializada desde hace más de 15 años en el desarrollo, producción, comercialización y distribución de material médico para el sector dental.
+											</p>
+											<p>
+												La innovación, más que cualquier otro factor, ha dirigido la trayectoria de GMI; ha sido el motor para el crecimiento, el progreso y el éxito de nuestra empresa.
+											</p>	
+											<p>
+												Hoy, nuestro know-how y el gran equipo humano que la integra nos permite estar presentes en cinco continentes, gracias a una amplia red de distribuidores, ofreciendo productos y soluciones odontológicas a pacientes y profesionales de la salud.
+											</p>	
+
+											
 											<h5 class="marginbottom0 borderBottomGreen">Mísión</h5>
 										  	<p class="extract">
 											  <span class="black-text">
