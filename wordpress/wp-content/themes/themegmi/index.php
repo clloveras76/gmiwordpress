@@ -83,7 +83,7 @@
 						                <i class="medium  material-icons">play_for_work</i>
 						                <h5 class="promo-caption">Implantes</h5>
 						                <p class="light center">
-						Hicimos la mayor parte del trabajo pesado para que usted proporcione a estilos de defecto que incorporan nuestros componentes personalizados . Además, refinamos animaciones y transiciones para proporcionar una experiencia suave para los desarrolladores.</p>
+										We did most of the heavy lifting for you to provide defect styles that incorporate our custom components. In addition, we refine animations and transitions to provide a smooth experience for developers.</p>
 						              </div>
 						            </div>
 
@@ -91,7 +91,7 @@
 						              <div class="center promo">
 						                <i class="medium material-icons">build</i>
 						                <h5 class="promo-caption">Instrumental</h5>
-						                <p class="light center">Mediante la utilización de elementos y principios de Material Design, hemos sido capaces de crear un framework que incorpora componentes y animaciones que proporcionan sistema de respuesta subyacente en todas las plataformas permite al usuario una experiencia  unificada.</p>
+						                <p class="light center">By using elements and principles of Material Design, we have been able to create a framework that incorporates components and animations that provide underlying response system across all platforms allows the user a unified experience.</p>
 						              </div>
 						            </div>
 
@@ -99,7 +99,7 @@
 						              <div class="center promo">
 						                <i class="medium material-icons">settings</i>
 						                <h5 class="promo-caption">Tecnología</h5>
-						                <p class="light center">Hemos proporcionado la documentación detallada, así como ejemplos específicos de código para ayudar a los nuevos usuarios a empezar. También estamos siempre abiertos a comentarios y podemos responder a cualquier pregunta que un usuario pueda tener acerca de Materialize.</p>
+						                <p class="light center">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to comments and can answer any questions a user may have about your material.</p>
 						              </div>
 						            </div>
 						</div>

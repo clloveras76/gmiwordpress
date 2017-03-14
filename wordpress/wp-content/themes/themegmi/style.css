@@ -33,7 +33,7 @@ body{
  }
  .titleH4Section{
  	border-bottom: solid 1px #ccc;
-	padding-bottom: 6px;
+	padding-bottom: 10px;
 	margin-bottom: 10px;
 	text-align: left;
  }
@@ -46,6 +46,7 @@ body{
 	width: 98%!important;
 	margin: 0 auto;
 }
+
 .width100percent{width: 100%!important;}
 .width80percent{width: 80%!important;}
 .width50percent{width: 50%!important;}
@@ -81,6 +82,8 @@ img.alignright, img[align="right"] {float:right;margin: 2px 0px 5px 10px;}
 .clear {clear:both;}
 hr.clear {clear:both;visibility: hidden;margin: 0px;padding: 0px;height:0px;}
 .marginbottom5{margin-bottom:5px;}
+.marginbottom10{margin-bottom:10px;}
+.marginbottom20{margin-bottom:20px;}
 .marginbottom0{margin-bottom:0px;}
 .margintop40{margin-top:40px;} 
 .strongClass{font-weight: bold!important;}
@@ -335,7 +338,7 @@ color: #039be5;
 }
 .card .card-title a{
 	 color:#4c4c4c!important;     
-	 font-size: 21px;
+	 font-size: 20px;
 }
 
 .card .card-content{
@@ -471,7 +474,7 @@ form label {
 /*----- Footer -----*/
 .footer-copyright{background: #0d2738!important; }  
 .footer-copyright #copyright{line-height: 20px;}
-.page-footer{/* background: #00897b!important;*/ background: #0069ae!important; padding-top: 30px!important; }
+.page-footer{/* background: #00897b!important;*/ background: #0069ae!important; padding-top: 50px!important; }
 .page-footer .container .row{ padding-bottom: 10px!important;}
 footer li a {color:#fff;}
 footer li a:hover{color:#000;}

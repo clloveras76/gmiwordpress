@@ -2,7 +2,7 @@
 
 <!-- footer -->
 
- <footer class="page-footer  teal">
+ <footer class="page-footer">
  <section id="ft_widgets">
           <div class="container">
             <div class="row">
