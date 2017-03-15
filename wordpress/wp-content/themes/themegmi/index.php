@@ -158,7 +158,10 @@
 		
 		
 					<div class="row">
-									<?php query_posts('category_name=home'); ?>	
+									<?php query_posts('category_name=home&showposts=3'); ?>	
+									<!-- ?php query_posts('category_name=home'); ? este es el query original, el otro limita a 3 post  -->	
+							
+
 											<?php if(have_posts()): while(have_posts()) : the_post();?> 
 									
 									
@@ -213,10 +216,10 @@
 							
 		
 	  </section>
-	  <div id="pagination"> 
+	  <!--div id="pagination"> 
 		<p><?php next_posts_link('<- Post Siguientes'); ?></p>
 		<p><?php previous_posts_link('<- Post Anteriores'); ?></p>
-	  </div>
+	  </div -->
 	<!-- Termina Article list -->
 	
 

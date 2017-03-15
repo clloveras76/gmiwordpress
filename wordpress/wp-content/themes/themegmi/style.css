@@ -13,6 +13,7 @@ Author URI: www.carloslloveras.com.ar
 body{
 	/*background-color:#EEE;*/
 	background-color: #F6F4F1!important;	
+	font-family: "Century Gothic", sans-serif;
 }
 
 .ColorWhite{color:#fff!important;}
@@ -338,7 +339,7 @@ color: #039be5;
 }
 .card .card-title a{
 	 color:#4c4c4c!important;     
-	 font-size: 20px;
+	 font-size: 19px;
 }
 
 .card .card-content{
@@ -350,6 +351,12 @@ color: #039be5;
 }
 
 /* Blog */
+
+@media only screen and (min-width:995px){
+  section#main{margin-top: 29px; }  
+}
+
+
 
 #main #article_list #cat_name{}
 /* Blog */
