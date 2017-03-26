@@ -137,9 +137,9 @@ background-color: #fcfcfc;
 
 
 @media only screen and (min-width:995px){
-	nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-	    height: 90px;
-	    line-height: 90px;
+	nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse li {
+	    height: 130px;
+	    line-height: 130px;
 	}
 	.logo .linklogo{
 	    line-height: 140px;
@@ -149,6 +149,10 @@ background-color: #fcfcfc;
 
 
 .side-nav {/*width: 325px; */    width: 65%; }
+
+@media only screen and (max-width:485px){
+		.side-nav {/*width: 325px; */    width: 100%; }
+}
 .side-nav a:hover {
 	background-color: #009688;
 }
@@ -219,6 +223,8 @@ nav .button-collapse i {
          /*   white-space: nowrap;*/
             float: none;
 		/*	border-bottom:solid 1px #ccc;*/
+		    height: 85px;
+			line-height: 85px;
         }
 		#menutopPrincipal nav .sub-menu li a{
 			width:100%;
@@ -280,7 +286,9 @@ color: #039be5;
 }
 
 .logo a img{   
-	margin-left: 40px;
+	margin-left: 60px;
+	height:100%;
+	width:auto;
 }
 /* slider*/
 
@@ -353,7 +361,7 @@ color: #039be5;
 /* Blog */
 
 @media only screen and (min-width:995px){
-  section#main{margin-top: 29px; }  
+  section#main{margin-top: 67px; }  
 }
 
 
